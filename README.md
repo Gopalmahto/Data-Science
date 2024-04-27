@@ -1,2 +1,2 @@
 # Data-Science
-Data visualization by python libraries like numpy , pandas , matplotlib , seaborn
+Data visualization by python libraries like matplotlib , seaborn
